@@ -2,7 +2,7 @@
 
 Personal developer portfolio showcasing full-stack Java, Spring Boot, MySQL, and React applications.
 
-**Live site:** https://YOUR-SITE-URL/
+**Live site:** https://my-portfolio-nine-pied-38.vercel.app/
 
 Built during the placement training program at [TAP Academy](https://thetapacademy.com/) (full-stack development, AI and augmented reality training).
 
@@ -17,8 +17,8 @@ Built during the placement training program at [TAP Academy](https://thetapacade
 
 1. Clone or extract the repository:
    ```bash
-   git clone https://github.com/saravanan-r-dev/portfolio.git
-   cd portfolio
+   git clone https://github.com/saravanan-r-dev/saravanan-portfolio.git
+   cd saravanan-portfolio
    ```
 
 2. Install dependencies:
